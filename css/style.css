@@ -772,8 +772,8 @@ ul,ol{
 	background: #444;
   }
   @media screen and (max-width: 900px) {
-	p, q { line-height: 1; font-size: 0.8rem; }
-	h2 { font-size: 1.2rem; }
+	p, q { line-height: 1; font-size: 1rem; }
+	h2 { font-size: 1.3rem; }
 
 	#slide1:checked ~ #controls label:nth-child(2),
 	#slide2:checked ~ #controls label:nth-child(3),
