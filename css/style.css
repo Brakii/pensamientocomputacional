@@ -786,5 +786,6 @@ ul,ol{
 	#slides {
 	   max-width: calc(100% - 140px);
 	   margin: 0 auto;
+	   font-size: 54%;
 	}
   }
